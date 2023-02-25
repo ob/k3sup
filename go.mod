@@ -10,5 +10,5 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
-	golang.org/x/sys v0.0.0-20200620081246-981b61492c35 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
